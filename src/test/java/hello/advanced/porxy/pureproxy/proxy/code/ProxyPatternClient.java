@@ -1,4 +1,4 @@
-package hello.advanced.porxy.code;
+package hello.advanced.porxy.pureproxy.proxy.code;
 
 public class ProxyPatternClient {
 

@@ -1,8 +1,8 @@
-package hello.advanced.porxy;
+package hello.advanced.porxy.pureproxy.proxy.code;
 
-import hello.advanced.porxy.code.CasheProxy;
-import hello.advanced.porxy.code.ProxyPatternClient;
-import hello.advanced.porxy.code.RealSubject;
+import hello.advanced.porxy.pureproxy.proxy.code.CasheProxy;
+import hello.advanced.porxy.pureproxy.proxy.code.ProxyPatternClient;
+import hello.advanced.porxy.pureproxy.proxy.code.RealSubject;
 import org.junit.jupiter.api.Test;
 
 public class ProxyPatterTest {
