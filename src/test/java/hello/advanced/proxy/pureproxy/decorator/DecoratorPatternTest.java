@@ -1,6 +1,6 @@
-package hello.advanced.porxy.pureproxy.decorator;
+package hello.advanced.proxy.pureproxy.decorator;
 
-import hello.advanced.porxy.pureproxy.decorator.code.*;
+import hello.advanced.proxy.pureproxy.decorator.code.*;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;
 

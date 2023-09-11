@@ -1,4 +1,4 @@
-package hello.advanced.porxy.pureproxy.concreteproxy.code;
+package hello.advanced.proxy.pureproxy.concreteproxy.code;
 
 import lombok.extern.slf4j.Slf4j;
 

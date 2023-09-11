@@ -1,4 +1,4 @@
-package hello.advanced.porxy.pureproxy.decorator.code;
+package hello.advanced.proxy.pureproxy.decorator.code;
 
 public interface Component {
     String operation();

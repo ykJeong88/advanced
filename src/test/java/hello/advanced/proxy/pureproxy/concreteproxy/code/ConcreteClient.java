@@ -1,4 +1,4 @@
-package hello.advanced.porxy.pureproxy.concreteproxy.code;
+package hello.advanced.proxy.pureproxy.concreteproxy.code;
 
 public class ConcreteClient {
 

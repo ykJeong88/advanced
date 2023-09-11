@@ -1,4 +1,4 @@
-package hello.advanced.porxy.pureproxy.proxy.code;
+package hello.advanced.proxy.pureproxy.proxy.code;
 
 public interface Subject {
     String operation();
